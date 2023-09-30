@@ -1,4 +1,4 @@
-# Aprendendo com jogos
+# Alfabetizando com jogos
 
 ## Introdução
 
@@ -46,7 +46,7 @@
 
 _______________________________________________
 
-# Como rodar o programa
+# Como rodar o programa 🧮
 
 1. Instale o software  Thonny no seu computador (https://thonny.softonic.com.br/)
 2. Faça o clone ou então o Download do zip do projeto
@@ -54,9 +54,15 @@ _______________________________________________
 4. Abra esses arquivos no software Thonny
 5. Clique em "Run"
 
-# Trabalhos Futuros
+<img src="https://github.com/karolpedro/ProjetoIntegrador/assets/109926330/f0e00f17-7fd7-4288-8d8b-f06a59beb69a" width="30%">
+<img src="https://github.com/karolpedro/ProjetoIntegrador/assets/109926330/f0e00f17-7fd7-4288-8d8b-f06a59beb69a" width="30%">
 
-1. Criação de uma interface que possibilite o uso por um aplicativo ou link.
+  
+
+
+# Trabalhos Futuros 
+
+1. Criação de uma interface que possibilite o uso por um aplicativo e/ou link.
 2. Melhorar a forma de comunicação entre os jogos, entre os jogos.
 3. Publicar o repositório...
 
