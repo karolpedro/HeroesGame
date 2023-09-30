@@ -1,1 +1,1 @@
-heroes é um jogo destinado às crianças a partir de 6 anos que estão na educação fundamental 1, ou seja, a partir do 1º ano (fase da alfabetização). Jogo de adição e subtração para decifrar a palavra (criptograma de adição e subtração). Oferece uma abordagem educacional interativa para estimular o cálculo e a escrita, permitindo ao docente maior autonomia com os alunos em sala de aula.  
+
