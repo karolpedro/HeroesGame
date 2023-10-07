@@ -52,7 +52,7 @@
 - **Performance**: o site deve ser responsivo, minimizando a latência durante a execução. (Status: feito ✔️)
 - **Usabilidade**: deve ser intuitivo e fácil de usar, especialmente para iniciantes. (Status: feito ✔️)
 - **Escalabilidade**: deve suportar um aumento no número de usuários. (Status: feito ✔️)
-- **Segurança**: garantir a segurança dos dados dos usuários e evitar vulnerabilidade. (Status: pendente ⚠️)
+- **Segurança**: garantir a segurança dos dados dos usuários e evitar vulnerabilidade. (Status: feito ✔️)
 - **Compatibilidade**: funciona em diversos navegadores e sistemas operacionais. (Status: pendente ⚠️)
 
 _______________________________________________
