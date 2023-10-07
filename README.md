@@ -28,11 +28,23 @@
 ## Conteúdo didático e Explicativo: 📝
 
 - Será feito um treinamento com os docentes, incluindo sugestões e explicações relevantes para o uso na sala de aula. 
-- Permitir que o aluno solicite apoio quando estiver preso em um desafio. 
+- Permitir que o aluno solicite apoio quando estiver preso em um desafio.
+  
+### Caça Palavras
+
+- Ao iniciar o jogo, o aluno conseguirá selecionar as letras para formar as palavras. 
+- O jogo tem botões que permitem descobrir as palavras na horizontal e na verical.
+- O botão limpar seleção está no processo de construção. (status: em construção 🚀)
+
+### Heroes
+
+  - Ao iniciar o jogo as contas de adiçaõ e subtração seram aleatórias.
+  - Cada vez que o aluno acertar, um animal será descoberto, fazendo com que o aluno junte a leitura com a lógica da matemática.
+  - Quando errar a conta que foi proposta, o aluno terá a oportunidade de tentar 3X a mesma conta. Porém, a resposta será dada assim que errar a pergunta.  
 
 ## Acompanhamento e Rotina de Estudo: 
 
-- Implementar um calendário de estudos onde na data e hora estabelecida, para uso dos computadores da escola. 💻
+- Implementar um calendário de estudos com data e hora estabelecida, para uso dos computadores da escola. 💻
 
 
 ## Requisitos Não Funcionais
