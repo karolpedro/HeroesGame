@@ -34,9 +34,9 @@
 
 - Ao iniciar o jogo, o aluno conseguirá selecionar as letras para formar as palavras. 
 - O jogo tem botões que permitem descobrir as palavras na horizontal e na verical.
-- O botão limpar seleção está no processo de construção. (status: em construção 🚀)
+- O botão limpar seleção está no processo de construção. (status: em construção 🛠)
 
-### Heroes
+### Heroes 🧮
 
   - Ao iniciar o jogo as contas de adiçaõ e subtração seram aleatórias.
   - Cada vez que o aluno acertar, um animal será descoberto, fazendo com que o aluno junte a leitura com a lógica da matemática.
@@ -57,7 +57,7 @@
 
 _______________________________________________
 
-# Como rodar o programa 🧮
+# Como rodar o programa 
 
 1. Instale o software  Thonny no seu computador (https://thonny.softonic.com.br/)
 2. Faça o clone ou então o Download do zip do projeto
