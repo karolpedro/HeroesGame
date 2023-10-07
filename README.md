@@ -70,7 +70,7 @@ pelo e-mail kcmpedro@gmail.com.
 
 # Licença
 
-- Este projeto está sob a licença (Status: pendente ⚠️)
+- Este projeto está sob a licença GNU V3
 
 
 
