@@ -2,7 +2,7 @@
 
 ## Introdução
 
-- É um jogo destinado às crianças a partir de 6 anos de idade que estão na educação fundamental 1, ou seja, a partir do 1º ano (fase da alfabetização).Jogo de adição e subtração para decifrar a palavra (criptograma de adição e subtração). Oferece uma abordagem educacional interativa para estimular o uso da adição, subtração e a escrita, permitindo ao docente maior autonomia com os alunos em sala de aula. E um caça palavras para auxilio na leitura e concentração.
+- É um jogo destinado às crianças a partir de 6 anos de idade que estão na educação fundamental 1, ou seja, a partir do 1º ano (fase da alfabetização).Jogo de adição e subtração para decifrar a palavra. Oferece uma abordagem educacional interativa para estimular o uso da adição, subtração e a escrita, permitindo ao docente maior autonomia com os alunos em sala de aula. E um caça palavras para auxilio na leitura e concentração.
 
 <img src="https://github.com/karolpedro/ProjetoIntegrador/assets/109926330/d576193c-71f5-4a0b-b6de-ca67d0737c8f" width="30%">
 <img src="https://github.com/karolpedro/ProjetoIntegrador/assets/109926330/f40c0725-c736-424d-abc6-6582483ca6be" alt="Imagem" width="30%">
