@@ -49,17 +49,16 @@
 
 ## Requisitos Não Funcionais
 
-- **Performance**: o site deve ser responsivo, minimizando a latência durante a execução. (Status: feito ✔️)
-- **Usabilidade**: deve ser intuitivo e fácil de usar, especialmente para iniciantes. (Status: feito ✔️)
-- **Escalabilidade**: deve suportar um aumento no número de usuários. (Status: feito ✔️)
-- **Segurança**: garantir a segurança dos dados dos usuários e evitar vulnerabilidade. (Status: feito ✔️)
-- **Compatibilidade**: funciona em diversos navegadores e sistemas operacionais. (Status: pendente ⚠️)
-
+- **Performance**: o site deve ser responsivo, minimizando a latência durante a execução. 
+- **Usabilidade**: deve ser intuitivo e fácil de usar, especialmente para iniciantes. 
+- **Escalabilidade**: deve suportar um aumento no número de usuários. 
+- **Segurança**: garantir a segurança dos dados dos usuários e evitar vulnerabilidade. 
+- **Compatibilidade**: funciona em diversos navegadores e sistemas operacionais. 
 _______________________________________________
 
 # Como rodar o programa 
 
-1. Instale o software  Thonny no seu computador (https://thonny.softonic.com.br/)
+1. Instale o software Thonny no seu computador (https://thonny.softonic.com.br/)
 2. Faça o clone ou então o Download do zip do projeto
 3. Faça a extração do projeto em uma pasta na sua máquina
 4. Abra esses arquivos no software Thonny
