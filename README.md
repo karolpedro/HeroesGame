@@ -40,7 +40,7 @@
 
   - Ao iniciar o jogo as contas de adiçaõ e subtração seram aleatórias.
   - Cada vez que o aluno acertar, um animal será descoberto, fazendo com que o aluno junte a leitura com a lógica da matemática.
-  - Quando errar a conta que foi proposta, o aluno terá a oportunidade de tentar 3X a mesma conta. Porém, a resposta será dada assim que errar a pergunta.  
+  - Quando errar a conta que foi proposta, o aluno terá a oportunidade de tentar 3X. Porém, a resposta será dada assim que errar a pergunta.  
 
 ## Acompanhamento e Rotina de Estudo: 
 
